@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Durbadol Goswami Kabbo.👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=durbadol218&color=blueviolet)
 
@@ -6,12 +6,12 @@
 
 I'm a passionate software developer with a keen interest in developing innovative solutions to challenging problems. I have experience in various programming languages and frameworks, and I love collaborating with others to create impactful projects.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Current Learning Areas]
-- 👯 I’m looking to collaborate on [Projects You Want to Collaborate On]
-- 🤔 I’m looking for help with [Areas You Need Help With]
-- 💬 Ask me about [Topics You Are Knowledgeable About]
-- 📫 How to reach me: [Your Email Address]
+- 🔭 I’m currently working on Mess Management System.
+- 🌱 I’m currently learning Django RESTFul API.
+//- 👯 I’m looking to collaborate on [Projects You Want to Collaborate On]
+//- 🤔 I’m looking for help with [Areas You Need Help With]
+- 💬 Ask me about C/C++/Python/SQL.
+- 📫 How to reach me: goswamidurbadol@gmail.com
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## Skills
