@@ -52,7 +52,7 @@ Here are a few projects that I've been working on recently:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/durbadol-goswami/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/durbadolgoswami23/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech. 😊
