@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in developing innovativ
 //- 🤔 I’m looking for help with [Areas You Need Help With]
 - 💬 Ask me about C/C++/Python/SQL.
 - 📫 How to reach me: goswamidurbadol@gmail.com
-- ⚡ Fun fact: [A Fun Fact About You]
+//- ⚡ Fun fact: [A Fun Fact About You]
 
 ## Skills
 
@@ -21,20 +21,21 @@ I'm a passionate software developer with a keen interest in developing innovativ
 - JavaScript
 - Java
 - C++
-- [Other Languages]
+- C
+- HTML5
+- CSS3
 
 ### Frameworks & Tools
 - React
 - Node.js
 - Django
-- Flask
-- [Other Frameworks/Tools]
+- Bootstrap
+- Django RESTFul API
 
 ### Databases
 - MySQL
 - PostgreSQL
 - MongoDB
-- [Other Databases]
 
 ## GitHub Stats
 
@@ -48,13 +49,13 @@ I'm a passionate software developer with a keen interest in developing innovativ
 
 Here are a few projects that I've been working on recently:
 
-- [Project 1](https://github.com/durbadol218/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/durbadol218/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/durbadol218/project3) - A brief description of Project 3.
+- [Project 1](https://github.com/durbadol218/FlowerWorld-New) - This is an e-commerce based website for Flower Selling, where user can sell flower after registration. There're also Admin and User role.
+- [Project 2](https://github.com/durbadol218/SwadhinShop) - An api based website created with HTML, CSS and JavaScript.
+- [Project 3](https://github.com/durbadol218/LoginRegister) - A simple loginRegister system created with django.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/durbadol-goswami/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech. 😊
