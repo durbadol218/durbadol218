@@ -2,58 +2,22 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=durbadol218&color=blueviolet)
 
-## About Me
+# 💫 About Me:
+I'm a passionate software developer in progress, exploring the world of full-stack development. Currently focused on Django and Django REST Framework, I'm building real-world projects and expanding my skills into ReactJS for frontend development. I enjoy solving problems, learning new technologies, and collaborating on meaningful projects.</br></br>
+🔭 I’m currently working on Portfolio Projects & APIs with Django.<br>👯 I’m looking to collaborate on Open-source or beginner-friendly web projects.<br>🤝 I’m looking for help with Frontend best practices and React state management.<br>🌱 I’m currently learning ReactJS & Full-Stack Development components.<br>💬 Ask me about Python, Django, REST API, C++, Web Development, SQL.<br>
 
-I'm a passionate software developer with a keen interest in developing innovative solutions to challenging problems. I have experience in various programming languages and frameworks, and I love collaborating with others to create impactful projects.
 
-- 🔭 I’m currently working on Mess Management System.
-- 🌱 I’m currently learning Django RESTFul API.
-- 💬 Ask me about C/C++/Python/SQL.
-- 📫 How to reach me: goswamidurbadol@gmail.com
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/durbadolgoswami) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/durbadol-goswami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durbadolgoswamikabbo/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@goswamidurbadol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goswamidurbadol@gmail.com) 
 
-## Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=durbadol218&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=durbadol218&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=durbadol218&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Languages
-- Python
-- JavaScript
-- Java
-- C++
-- C
-- HTML5
-- CSS3
+---
+[![](https://visitcount.itsvg.in/api?id=durbadol218&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Frameworks & Tools
-- ReactJS
-- Node.js
-- Django
-- Bootstrap
-- Tailwind CSS
-- Django RESTFul API
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-## GitHub Stats
-
-![durbadol218's GitHub stats](https://github-readme-stats.vercel.app/api?username=durbadol218&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durbadol218&layout=compact&theme=radical)
-
-## Projects
-
-Here are a few projects that I've been working on recently:
-
-- [Project 1](https://github.com/durbadol218/FlowerWorld-New) - This is an e-commerce based website for Flower Selling, where user can sell flower after registration. There're also Admin and User role.
-- [Project 2](https://github.com/durbadol218/SwadhinShop) - An api based website created with HTML, CSS and JavaScript.
-- [Project 3](https://github.com/durbadol218/LoginRegister) - A simple loginRegister system created with django.
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/durbadolgoswami23/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech. 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
