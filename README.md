@@ -1,3 +1,5 @@
+![Banner](./assets/Cover Image.png)
+
 # Hi there, I'm Durbadol Goswami Kabbo.👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=durbadol218&color=blueviolet)
