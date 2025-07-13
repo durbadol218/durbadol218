@@ -1,4 +1,4 @@
-![Banner](./assets/Cover Image.png)
+![Banner](./assets/CoverImage.png)
 
 # Hi there, I'm Durbadol Goswami Kabbo.👋
 
